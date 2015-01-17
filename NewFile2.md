@@ -2,9 +2,11 @@
 
 This is intended to:
 
-li test mark down
-li test editing
-li test links
+* test mark down
+
+* test editing
+
+* test links
 
 [Link to Google](http://www.google.com)
 
